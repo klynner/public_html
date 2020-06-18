@@ -1,0 +1,40 @@
+<!doctype html>
+
+<h1>Sounds</h1>
+<h2>Vowels</h2>
+<h2>Consonants</h2>
+<h2>Special<h/2>
+
+<h1>Lexicon</h1>
+
+<h2>Roots</h2>
+<p> Purpose (Name), Authority (Name), Trickster (Name), Harbor (Name),</p>
+<p> Food, Water, Shelter, Problem, Love,</p>
+
+<h2>Affixes</h2>
+<h3>prefixes</h3>
+<h3>infixes</h3>
+<h3>suffixes</h3>
+
+<h1>Grammar</h1>
+<h2>Word Order</h2>
+<p>Subject Verb Object</p>
+<p>Subject Object Verb</p>
+<p>Verb Subject Object</p>
+<p>Verb Object Subject</p>
+<p>Object Verb Subject</p>
+<p>Object Subject Verb</p>
+<p>Sentence Purpose By Other Indicator</p>
+<h2>Plurals</h2>
+<h3>Singular or Plural Division</h3>
+<p>Plural marker Y or N</p>
+<p>Some languages have no plurals, just a number and the object, for example: "Twelve cow"</p>
+<h3>Magic Number Specification</h3>
+<p>Point at which plurality becomes unspecific using words like "Many" or "Lots"</p>
+
+<h2>Tenses</h2>
+<p>Past, Present, and/or Future</p>
+<h3>Manner</h3>
+<p>For whether an action has been completed or not</p>
+
+
