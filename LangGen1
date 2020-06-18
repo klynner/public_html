@@ -1,5 +1,9 @@
 <!doctype html>
 
+<html lang+"en">
+<meta charset="utf-8">
+<title>Language Generator</title>
+<body>
 <h1>Sounds</h1>
 <h2>Vowels</h2>
 <h2>Consonants</h2>
@@ -37,4 +41,4 @@
 <h3>Manner</h3>
 <p>For whether an action has been completed or not</p>
 
-
+</body>
